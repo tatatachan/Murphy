@@ -23,17 +23,63 @@ p.amarillo {
     text-align:left;
     font-size: 20px;
     box-sizing:border-box;
-
+    width: 600px;
+    height:200px;
+    border:greenyellow 3px solid;
+    position: absolute;
+    top: 30%;
+    left:4%;
+    background-color:yellow;
 }
 p.azul{
-    font-family: sans-serif
+    font-family: sans-serif;
+    text-align:left;
+    font-size: 20px;
+    box-sizing:border-box;
+    width: 600px;
+    height:200px;
+    border:blue 3px solid;
+    background-color:lightblue;
+    position: absolute;
+    top: 30%;
+    left:60%;
 }
 p.verde{
-    font-family: sans-serif
+    font-family: sans-serif;
+    text-align:left;
+    font-size: 20px;
+    box-sizing:border-box;
+    width: 700px;
+    height:200px;
+    border:green 3px solid;
+    background-color:lightgreen;
+    position: absolute;
+    top: 50%;
+    left:30%;
 }
 p.violeta{
-    font-family: sans-serif
+    font-family: sans-serif;
+    text-align:left;
+    font-size: 20px;
+    box-sizing:border-box;
+    width: 600px;
+    height:200px;
+    border:purple 3px solid;
+    background-color:violet;
+    position: absolute;
+    top: 30%;
+    left:4%;
 }
 p.rojo{
-    font-family: sans-serif
+    font-family: sans-serif;
+    text-align:left;
+    font-size: 20px;
+    box-sizing:border-box;
+    width: 600px;
+    height:200px;
+    border:red 3px solid;
+    background-color: #FFB3B3;
+    position: absolute;
+    top: 30%;
+    left:4%;
 }
