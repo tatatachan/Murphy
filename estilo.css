@@ -6,7 +6,7 @@ h1{
     font-size: 40px
 }
 p:hover {
-    position:relative
+   z-index:2
   }
   
 p.marron {
@@ -14,7 +14,7 @@ p.marron {
     font-size: 20px;
     text-align: center;
     box-sizing: border-box;
-    width: 1800px;
+    width: 1150px;
     height:100px;
     border:rgb(230, 167, 86) 3px solid;
     background-color:burlywood;
@@ -57,8 +57,9 @@ p.verde{
     height:200px;
     border:green 3px solid;
     background-color:lightgreen;
-    position:relative;
-    top: 30%;
+    position:absolute;
+    z-index: 1;
+    top: 50%;
     left:30%;
 }
 
